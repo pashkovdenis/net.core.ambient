@@ -1,0 +1,12 @@
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\obj\Debug\netcoreapp3.0\Ambient.csprojAssemblyReference.cache
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\obj\Debug\netcoreapp3.0\Ambient.csproj.CoreCompileInputs.cache
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\obj\Debug\netcoreapp3.0\Ambient.AssemblyInfoInputs.cache
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\obj\Debug\netcoreapp3.0\Ambient.AssemblyInfo.cs
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\bin\Debug\netcoreapp3.0\Ambient.exe
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\bin\Debug\netcoreapp3.0\Ambient.deps.json
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\bin\Debug\netcoreapp3.0\Ambient.runtimeconfig.json
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\bin\Debug\netcoreapp3.0\Ambient.runtimeconfig.dev.json
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\bin\Debug\netcoreapp3.0\Ambient.dll
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\bin\Debug\netcoreapp3.0\Ambient.pdb
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\obj\Debug\netcoreapp3.0\Ambient.dll
+C:\Users\Chi\Desktop\Projects\Ambient\Ambient\Ambient\obj\Debug\netcoreapp3.0\Ambient.pdb
